@@ -19,6 +19,11 @@ This software is released under the GPLv3.
 
 stmbl
 =====
+
+IMPORTANT:  This fork should **NOT** be used to make PC boards.
+The board layout files have been reverted to work with the stable version of Kicad, which affects the copper.  At some point I will probably clean up the resulting issues, but that is not a priority.  I simply want to be able to view the layout using the stable version.
+
+
 There is a wiki. https://github.com/rene-dev/stmbl/wiki
 There will be documentation.
 
